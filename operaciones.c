@@ -4,7 +4,7 @@
 
 int sumar(const int a, const int b) {
     return a + b;
-}
+} // lo que hace es sumar a con b
 
 /* ── restar — ya implementada ────────────────────────────────────────────── */
 
